@@ -1,1 +1,1 @@
-# react-in-depth
+# react-typescript-sandbox
